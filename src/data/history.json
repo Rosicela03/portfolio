@@ -1,0 +1,30 @@
+[
+
+  
+    {
+      "title": "Generative AI",
+      "organisation": "University of Texas",
+      "startDate": "Dec, 2024",
+      "endDate": "Oct, 2025",
+      "experiences": ["Studied Generative AI, focusing on how models generate text and images."],
+      "imageSrc": "history/ut.png"
+    },
+    {
+      "title": "Mastering Big Data Analytics",
+      "organisation": "University of Texas",
+      "startDate": "Dec, 2024",
+      "endDate": "Oct, 2025",
+      "experiences": ["Learned data processing and visualization techniques in Big Data Analytics."],
+      "imageSrc": "history/ut.png"
+    },
+    {
+      "title": "Data Visualization Using Power BI",
+      "organisation": "University of Texas",
+      "startDate": "Dec, 2024",
+      "endDate": "Oct, 2025",
+      "experiences": [
+        "Gained experience creating interactive dashboards and reports in Power BI."
+      ],
+      "imageSrc": "history/ut.png"
+    }
+  ]

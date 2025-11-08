@@ -1,0 +1,42 @@
+[
+    {
+      "title": "Todo List",
+      "imageSrc": "projects/task.png",
+      "description": "Todo app that enables users to add, edit, and delete assignments.",
+      
+      "skills": ["React", "JavaScript", "CSS"],
+      "demo": "https://rosicela03.github.io/daily-lists/",
+      "source": "https://github.com/Rosicela03/daily-lists"
+    },
+
+
+
+
+    {
+      "title": "WeatherApp",
+      "imageSrc": "projects/weather.png",
+      "description": "Weather App to search any city and view real-time temperature.",
+      "skills": ["React", "CSS", "Tailwind"],
+      "demo": "https://rosicela03.github.io/weatherApp/",
+      "source": "https://github.com/Rosicela03/weatherApp"
+    },
+
+
+    {
+      "title": "MovieNight",
+      "imageSrc": "projects/movie.png",
+    
+      "description": "App that displays top-rated, upcoming, and popular movies.",
+      "skills": ["React", "CSS", "Fetch API"],
+      "demo": "https://rosicela03.github.io/movieNight/",
+      "source": "https://github.com/Rosicela03/movieNight"
+    }
+
+
+
+
+
+
+
+
+  ]
